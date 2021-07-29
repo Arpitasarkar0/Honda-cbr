@@ -49,3 +49,13 @@ border-radius: 5px;
 .contact-font-color{
     color: #847f7f;
 }
+
+.table-bg-color{
+    background-image: url(honda-cbr-main/images/background.jpg);
+    background-attachment: fixed;
+
+}
+.text-style{
+   color: rgb(233, 134, 41);
+    font-weight: 800;
+}
