@@ -1,0 +1,51 @@
+.nav-bg-color{
+    background-color: #264653;
+}
+.model-button-color{
+    background: #E76F51;
+border-radius: 5px;
+}
+.font-color{
+    color: #E76F51;
+}
+.bike-size{
+    width: 288px;
+height: 243px;
+}
+.gray-scale{
+    filter: grayscale(100%);
+}
+.client-img-size{
+    width: 149px;
+height: 149px;
+}
+.fa-star{
+    color:#E77C40;
+}
+.fa-star-half-alt{
+    color: #E76F51;
+}
+.text-color{
+    color: #23A6F0;
+}
+.fs-size{
+    font-family: Poppins;
+    font-size: 48px;
+    font-weight: 600px;
+    
+}
+.faq-img-size{
+    width: 431.2px;
+height: 423.5px;
+}
+.box-border{
+    border: 1px solid #D5E5FB;
+box-sizing: border-box;
+border-radius: 5px;
+}
+.background-color{
+    background-color:#ededed ;
+}
+.contact-font-color{
+    color: #847f7f;
+}
